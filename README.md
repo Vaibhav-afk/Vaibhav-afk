@@ -1,19 +1,20 @@
-### Hi, I'm Vaibhav! <img src="wave.gif" alt="hi"  width=40 height=50 />
-### Glad to see you here😍
+# *Hi*, **I'm Vaibhav** !  <img src="wave.gif" alt="hi"  width=43 height=50 />
+## *Glad to see you here* 😍
+---
+<br/>
 
 ### 👨🏻‍💻 &nbsp;About Me:
-<br/>
+
 🚀 &nbsp;I'm beginner, passionate about learning new things.\
 🎓 &nbsp;pursuing B. Tech in computer science at Amity University.\
 🔍 &nbsp;Currently into android & web development and practicing problems.\
-🤝 &nbsp;Ask for open source opportunities or working alongside a project if any.😅.\
+🤝 &nbsp;Ask for open source opportunities or working alongside a project if any.\
 
 <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
 
 <br />
 
 ### 🛠 &nbsp;Languages, frameworks & technologies:
-<br/>
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFFF00)&nbsp;
