@@ -1,11 +1,10 @@
-### <strong>Hi<strong/>, <img src="wave.gif" alt="hi"  width=150 height=70 />
-### <strong>I'm Vaibhav!<strong/>
+### Hi, I'm Vaibhav! <img src="wave.gif" alt="hi"  width=30 height=50 />
 ## Glad to see you here😍
 ---
 
 ### 👨🏻‍💻 &nbsp;About Me:
 <br/>
-🚀 &nbsp;I'm beginner, passionate about learning new things .\
+🚀 &nbsp;I'm beginner, passionate about learning new things.\
 🎓 &nbsp;pursuing B. Tech in computer science at Amity University.\
 🔍 &nbsp;Currently into android & web development and practicing problems.\
 🤝 &nbsp;Ask for open source opportunities or working alongside a project if any.😅.\
@@ -31,7 +30,6 @@
 
 <br />
 
-<div align="center">
 ### 🤝 &nbsp;Find me at:
 <br/>
 <a href="https://twitter.com/_trueVaibhav">
@@ -49,7 +47,6 @@
 <a href="https://www.instagram.com/_truevaibhav/">
   <img align="left" alt="Vaibhav | Instagram" width="30px" src="icons/instagram.png" />
 </a>
-<div/>
 
 <br />
 <br/>
@@ -61,8 +58,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-afk&count_private=true&theme=radical&show_icons=true" alt="Vaibhav-afk" />
 
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=Vaibhav-afk&color=brightgreen&style=flat-square&label=Profile+Views)
-<div/>  
 
 ---
