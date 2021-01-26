@@ -1,6 +1,5 @@
-### Hi, I'm Vaibhav! <img src="wave.gif" alt="hi"  width=30 height=50 />
-## Glad to see you here😍
----
+### Hi, I'm Vaibhav! <img src="wave.gif" alt="hi"  width=40 height=50 />
+### Glad to see you here😍
 
 ### 👨🏻‍💻 &nbsp;About Me:
 <br/>
