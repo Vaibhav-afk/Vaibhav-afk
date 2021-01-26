@@ -1,4 +1,4 @@
-# *Hi*, **I'm Vaibhav** !  <img src="wave.gif" alt="hi"  width=45 height=50 />
+# *Hi*, **I'm Vaibhav** !  <img src="wave.gif" alt="hi"  width=48 height=50 />
 ## *Glad to see you here* 😍
 ---
 <br/>
@@ -8,7 +8,7 @@
 🚀 &nbsp;I'm beginner, passionate about learning new things.\
 🎓 &nbsp;pursuing B. Tech in computer science at Amity University.\
 🔍 &nbsp;Currently into android & web development and practicing problems.\
-🤝 &nbsp;Ask for open source opportunities or working alongside a project if any.\
+🤝 &nbsp;Ask for open source opportunities or working alongside a project if any.😅
 
 <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
 
