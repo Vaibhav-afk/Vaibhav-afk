@@ -58,6 +58,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-afk&count_private=true&theme=radical&show_icons=true" alt="Vaibhav-afk" />
 
-![](https://komarev.com/ghpvc/?username=Vaibhav-afk&color=brightgreen&style=flat-square&label=Profile+Views)
-
 ---
