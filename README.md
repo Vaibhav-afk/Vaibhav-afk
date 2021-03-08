@@ -1,4 +1,4 @@
-# Hi, **I'm Vaibhav** !  <img src="wave.gif" alt="hi"  width=70 height=50 />
+# Hi, **I'm Vaibhav** !  <img src="wave.gif" alt="hi"  width=80 height=65 />
 ## *Glad to see you here* 😍
 ---
 <br/>
