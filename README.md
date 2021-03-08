@@ -53,7 +53,7 @@
 
 ### 📈 Stats
 <br/>
-<p align ="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Vaibhav-afk&theme=dracula" alt="Vaibhav-afk_contribution-graph"/>
+<p align ="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Vaibhav-afk&theme=lucent" alt="Vaibhav-afk_contribution-graph"/>
 <br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-afk&count_private=true&theme=radical&show_icons=true" alt="Vaibhav-afk" />
