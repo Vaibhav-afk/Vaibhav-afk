@@ -31,19 +31,19 @@
 
 ### 🤝 &nbsp;Find me at:
 <br/>
-<a href="https://twitter.com/_trueVaibhav">
+<a href="https://twitter.com/_trueVaibhav" target=""_blank>
   <img align="left" alt="Vaibhav | Twitter" width="30px" src="icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/truevaibhav/">
+<a href="https://www.linkedin.com/in/truevaibhav/" target="_blank">
   <img align="left" alt="Vaibhav | LinkedIN" width="30px" src="icons/linkedin.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/truevaibhav">
+<a href="https://www.codechef.com/users/truevaibhav" target="_blank">
   <img align="left" alt="Vaibhav | Codechef" width="30px" src="icons/codechef.png" />
 </a>
 
-<a href="https://www.instagram.com/_truevaibhav/">
+<a href="https://www.instagram.com/_truevaibhav/ target="_blank">
   <img align="left" alt="Vaibhav | Instagram" width="30px" src="icons/instagram.png" />
 </a>
 
