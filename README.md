@@ -31,7 +31,7 @@
 
 ### 🤝 &nbsp;Find me at:
 <br/>
-<a href="https://twitter.com/_trueVaibhav" target=""_blank>
+<a href="https://twitter.com/_trueVaibhav" target="_blank">
   <img align="left" alt="Vaibhav | Twitter" width="30px" src="icons/twitter.svg" />
 </a>
 
