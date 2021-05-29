@@ -1,6 +1,8 @@
-# Hi, **I'm Vaibhav** !  <img src="wave.gif" alt="hi"  width=80 height=65 />
-## *Glad to see you here* 😍
-<br/>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+<h1 align="center"><strong>Hi,<img src="wave.gif" alt="hi"  width=50 height=40 />  I'm Vaibhav ! <strong/></h1>
+<h2 align="center">Glad to see you here 😍</h2>
+<br>
 
 ### 👨🏻‍💻 &nbsp;About Me:
 
@@ -57,4 +59,5 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-afk&count_private=true&theme=radical&show_icons=true" alt="Vaibhav-afk" />
 
----
+
+![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)
