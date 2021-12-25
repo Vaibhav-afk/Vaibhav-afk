@@ -45,7 +45,7 @@
   <img align="left" alt="Vaibhav | Codechef" width="30px" src="icons/codechef.png" />
 </a>
 
-<a href="https://www.instagram.com/_truevaibhav/" target="_blank">
+<a href="https://www.instagram.com/truevaibhav/" target="_blank">
   <img align="left" alt="Vaibhav | Instagram" width="30px" src="icons/instagram.png" />
 </a>
 
