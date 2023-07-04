@@ -46,7 +46,6 @@
 
 ### 📈 Stats
 <br/>
-![Snake animation](https://github.com/Vaibhav-afk/Vaibhav-afk/blob/output/github-contribution-grid-snake.svg)
 <br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-afk&count_private=true&theme=radical&show_icons=true" alt="Vaibhav-afk" />
