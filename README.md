@@ -6,10 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me:
 
-🚀 &nbsp;I'm beginner, passionate about learning new things.\
-🎓 &nbsp;pursuing B. Tech in computer science at Amity University.\
-🔍 &nbsp;Currently into web development and practicing problems.\
-🤝 &nbsp;Ask for open source opportunities or working alongside a project if any.😅
+🚀 Recent Computer Science grad from Amity University 🎓 | Coding Enthusiast 🌟 | Web Dev Explorer 💻 | Lifelong Learner 📚 | Eager Problem Solver 🚀 | Seeking Challenges and Open Source Opportunities 🌟 | Let's Create, Innovate, and Elevate Together! 🚀
 
 <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
 
