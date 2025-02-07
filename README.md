@@ -35,10 +35,6 @@
   <img align="left" alt="Vaibhav | LinkedIN" width="30px" src="icons/linkedin.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/truevaibhav" target="_blank">
-  <img align="left" alt="Vaibhav | Codechef" width="30px" src="icons/codechef.png" />
-</a>
-
 <br />
 <br/>
 
