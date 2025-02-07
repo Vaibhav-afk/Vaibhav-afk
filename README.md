@@ -38,11 +38,14 @@
 <br />
 <br/>
 
+<!---
 ### 📈 Stats
 <br/>
 <br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-afk&count_private=true&theme=radical&show_icons=true" alt="Vaibhav-afk" />
+-->
+
 
 
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)
